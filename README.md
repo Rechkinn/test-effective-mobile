@@ -1,3 +1,13 @@
+# Тестовое задание от компании Effective Mobile
+
+- тестовое задание: https://disk.360.yandex.ru/d/FTGLaPslS-FUUw
+
+## Стек
+
+- Наша поддержка: https://t.me/assistant_em
+- Наш Telegram-канал: https://t.me/effectivemobile
+- LinkedIn: https://ru.linkedin.com/company/effective-mobile
+
 # User Service API
 
 REST API сервис для управления пользователями.
