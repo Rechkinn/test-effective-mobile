@@ -2,7 +2,7 @@
 
 - тестовое задание: https://disk.360.yandex.ru/d/FTGLaPslS-FUUw
 
-## Стек
+## Контакты компании
 
 - Наша поддержка: https://t.me/assistant_em
 - Наш Telegram-канал: https://t.me/effectivemobile
