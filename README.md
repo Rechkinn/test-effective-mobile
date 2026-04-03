@@ -16,8 +16,11 @@ npm install
 
 ### 2. Создать .env файл (файл уже создан, можно пропустить этот пункт)
 DATABASE_URL="postgresql://postgres:postgres@localhost:5432/userservice?schema=public"
+
 JWT_SECRET="your_super_secret_key_change_in_production"
+
 JWT_EXPIRES_IN="7d"
+
 PORT=3000
 
 ### 3. Применить миграции
